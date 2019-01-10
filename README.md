@@ -10,7 +10,7 @@ It is not receommed to obtain this kit without taking ESET 369 course. During th
 *This kit does not inlcude TI lunchapad in the picture. It was shown just for reference.*
  <br />
 
-This TI BH EDU board kit:
+This TI BH EDU board kit includes:
 
 - TI BH EDU board V1.3<br />
 
