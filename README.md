@@ -1,7 +1,7 @@
 # TI-BH-EDU-board-kit
 
 This is a lab kit that inlcudes several input and output componetns that are covered in ESET 369 course in Texas A&M Univiersity <br />
-This is not a requried purcahse but it provides a service to the students for those of who take the course and want to have their own.  <br />
+This is _NOT a requried_ purchase item for the course, but it provides a service for the students who would want to have their own.  <br />
 A Texas A&M Marketplace item was created and the link was provided below **(Not set up yet)**.  <br />
 It is not receommed to obtain this kit without taking ESET 369 course. During the ESET 369 course, details of this kit will be covered in depth.<br />
 
