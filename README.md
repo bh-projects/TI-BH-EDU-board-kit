@@ -1,26 +1,32 @@
 # TI-BH-EDU-board-kit
 
-This is a lab kit that inlcudes two different kinds of TI launchpad boards and jumper wires.  <br />
-Students who take ESET 369 course in Fall of 2019 need to brng their own TI launchpad boards and jumper wires. <br />
+This is a lab kit that inlcudes several input and output componetns that are covered in ESET 369 course in Texas A&M Univiersity <br />
+This is not a requried purcahse but it provides a service to the students for those of who take the course and want to have their own.  <br />
+A Texas A&M Marketplace item was created and the link was provided below **(Not set up yet)**.  <br />
+It is not receommed to obtain this kit without taking ESET 369 course. During the ESET 369 course, details of this kit will be covered in depth.<br />
 
-The details were listed below. Students can choose to obtain them from several vendors such as Amazon, digikey, and mouser. <br />
-In addition, as a service for the students, A Texas A&M Marketplace item was created and the link was provided below **(Not set up yet)**.  <br />
-
- <br />
 <center><img src="./pic.jpg" width =50%></center>
+
+*This kit does not inlcude TI lunchapad in the picture. It was shown just for reference.*
  <br />
 
-This basic kit:
+This TI BH EDU board kit:
 
-- ARM Cortex-M4F Based MCU TM4C123G LaunchPad Evaluation Kit (EK-TM4C123GXL) <br />
-http://www.ti.com/tool/EK-TM4C123GXL?DCMP=stellaris-launchpad&HQS=tm4c123g-launchpad
+- TI BH EDU board V1.3<br />
 
-- MSP430F5529 USB LaunchPad Evaluation Kit (MSP-EXP430F5529LP) <br />
-http://www.ti.com/tool/MSP-EXP430F5529LP
+- 16 key keypad<br />
+https://www.vellemanusa.com/products/view/?country=us&lang=enu&id=349964
 
-- Breadboard Jumper Wire Set (Male to Female, Male to Male, and Female to Female)  <br />
-You can find several choices from many vendors
+- 16 X2 LCD module<br />
+Chttp://www.newhavendisplay.com/nhd0216hzfswfbw33v3c-p-5169.html
 
+- Accelerometer board - ADXL337 <br />
+https://www.sparkfun.com/products/12786
+
+- DC/Stepper Motor Driver Board <br />
+https://www.adafruit.com/product/3297
+
+- plastic container<br />
 
 Texas A&M Marketpalce link **(Not set up yet)** <br />
 https://secure.touchnet.com/C21490_ustores/web/classic/index.jsp
