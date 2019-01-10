@@ -3,7 +3,7 @@
 This is a lab kit that inlcudes several input and output componetns that are covered in ESET 369 course in Texas A&M Univiersity <br />
 This is __NOT a requried__ purchase item for the course, but it provides a service for the students who would want to have their own.  <br />
 A Texas A&M Marketplace item was created and the link was provided below **(Not set up yet)**.  <br />
-It is not receommed to obtain this kit without taking ESET 369 course. During the ESET 369 course, details of this kit will be covered in depth.<br />
+It is not recommended to obtain and use this kit without taking Dr. Hur's ESET 369 course. During the ESET 369 course, details of this kit will be covered in depth.<br />
 
 <center><img src="./pic.jpg" width =50%></center>
 
