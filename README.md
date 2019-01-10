@@ -7,7 +7,7 @@ It is not recommended to obtain and use this kit without taking Dr. Hur's ESET 3
 
 <center><img src="./pic.jpg" width =50%></center>
 
-*This kit does not inlcude TI lunchapad in the picture. It was shown just for reference.*
+*(Note) This kit does not inlcude TI lunchapad in the picture. It was shown just for reference.*
  <br />
 
 This TI BH EDU board kit includes:
