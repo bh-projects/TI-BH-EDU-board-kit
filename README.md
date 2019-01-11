@@ -7,7 +7,7 @@ It is NOT recommended to obtain and use this kit without taking Dr. Hur's ESET 3
 
 <center><img src="./pic.jpg" width =50%></center>
 
-*(Note) This kit does not inlcude TI lunchapad in the picture. It was shown just for reference.*
+*(Note) This kit does not inlcude TI lunchapad baords as is in the picture. A TI lunchpad was shown just for reference to show how it is to be mounted.*
  <br />
 <br />
 
