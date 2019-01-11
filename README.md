@@ -7,7 +7,7 @@ It is NOT recommended to obtain and use this kit without taking Dr. Hur's ESET 3
 
 <center><img src="./pic.jpg" width =50%></center>
 
-*(Note) This kit does not include TI Launchpad boards as is in the picture. A TI Launchpad was shown just for reference to show how it is to be mounted.*
+*(Note) This kit does not include TI Launchpad boards as is in the picture. A TI Launchpad was shown just for reference to show how it can be be mounted.*
  <br />
 <br />
 
