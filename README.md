@@ -13,7 +13,7 @@ It is NOT recommended to obtain and use this kit without taking Dr. Hur's ESET 3
 
 This TI BH EDU board kit includes:
 
-- TI BH EDU board V1.3<br />
+- TI BH EDU board V1.3 (assembled)<br />
 
 - 16 key keypad<br />
 
