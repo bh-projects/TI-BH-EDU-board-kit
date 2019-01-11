@@ -28,4 +28,4 @@ This TI BH EDU board kit includes:
 Texas A&M Marketpalce link **(Not set up yet)** <br />
 https://secure.touchnet.com/C21490_ustores/web/classic/index.jsp
 
-(Disclaimer) The Texas A&M Marketplace item is just for the service for students and who take ESET 369. Dr. B. Hur will not be responsible for *any of the issues regarding the items such as damanged products or any types of injuries or accidents*.
+(Disclaimer) The Texas A&M Marketplace item is just for the service for students and who take the ESET 369 course. Dr. B. Hur nor Texas A&M will not be responsible for *any of the issues regarding the items such as damanged products or any types of injuries or accidents*.
