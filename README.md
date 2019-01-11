@@ -16,18 +16,14 @@ This TI BH EDU board kit includes:
 - TI BH EDU board V1.3<br />
 
 - 16 key keypad<br />
-https://www.vellemanusa.com/products/view/?country=us&lang=enu&id=349964
 
-- 16 X2 LCD module<br />
-Chttp://www.newhavendisplay.com/nhd0216hzfswfbw33v3c-p-5169.html
+- 16 x 2 LCD module<br />
 
-- Accelerometer board - ADXL337 <br />
-https://www.sparkfun.com/products/12786
+- Accelerometer board<br />
 
 - DC/Stepper Motor Driver Board <br />
-https://www.adafruit.com/product/3297
 
-- plastic container<br />
+- Plastic container<br />
 
 Texas A&M Marketpalce link **(Not set up yet)** <br />
 https://secure.touchnet.com/C21490_ustores/web/classic/index.jsp
