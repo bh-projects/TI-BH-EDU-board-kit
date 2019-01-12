@@ -28,4 +28,4 @@ This TI BH EDU board kit includes:
 - Plastic container<br />
 
 
-(Disclaimer) The Texas A&M Marketplace item was created for the service to students and to help their learning whom only those take the ESET 369 course. Dr. Byul Hur nor Texas A&M will not be responsible for *any of the issues regarding the items such as damaged products or any types of injuries or accidents*.
+(Disclaimer) The Texas A&M Marketplace item is planned to be created for the service to students and to help their learning whom only those take the ESET 369 course. Dr. Byul Hur nor Texas A&M will not be responsible for *any of the issues regarding the items such as damaged products or any types of injuries or accidents*.
