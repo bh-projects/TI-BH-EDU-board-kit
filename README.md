@@ -1,5 +1,5 @@
 # TI-BH-EDU-board-kit V1.3
-DOI: 10.5281/zenodo.2538993
+DOI: 10.5281/zenodo.2538993 <br/>
 
 This is a lab kit that will be used throughout Dr. Hur's ESET 369 course in Texas A&M University in *Spring of 2019*. It includes several input and output components which are covered in the ESET 369 course <br />
 This is __NOT a required__ kit purchase who takes the course. Students can access this kit during the lab hours. <br />
