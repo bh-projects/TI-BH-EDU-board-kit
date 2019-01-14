@@ -29,3 +29,4 @@ This TI BH EDU board kit includes:
 
 
 (Disclaimer) This kit is available for purchase as a service to only Dr. Hur’s ESET 369 students and for their learning. It is NOT recommended to obtain this kit and use it for those whom do not take the ESET 369 course. This kit includes an non-functional and experimental board. Throughout the course and its Labs, students will learn how to use them to make them function properly. Dr. Byul Hur nor Texas A&M will not be responsible for *any of the issues regarding the items such as damaged products or any types of injuries or accidents*.
+
