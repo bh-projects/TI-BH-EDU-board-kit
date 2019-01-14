@@ -4,7 +4,7 @@ This is a lab kit that will be used throughout Dr. Hur's ESET 369 course in Texa
 This is __NOT a required__ kit purchase who takes the course. Students can access this kit during the lab hours. <br />
 As a service to the students who take the course and for their learning purpose, the kit is available for purchase. <br />
 *(A Texas A&M Marketplace item is planned to be created soon. In-between, please, send an email to byulmail@tamu.edu if you are interested in purchasing one. A follow-up email will be sent back as soon as it is available on Texas A&M Marketplace)*<br />
-Currently, it is not possible to handle a large quantity of the order. The lead time is two weeks. <br />
+It is not expected nor possible to handle a large quantity of the order. Please, understand the minimum lead time of two weeks. <br />
 Throughout the ESET 369 course, the detail of this kit will be covered in depth. <br />
 
 <center><img src="./pic.jpg" width =50%></center>
