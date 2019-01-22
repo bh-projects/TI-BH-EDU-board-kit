@@ -1,4 +1,4 @@
-# TI-BH-EDU-board-kit V1.3 resoruces
+# TI-BH-EDU-board-kit V1.3 Resources
 
 DOI: 10.5281/zenodo.2538993
 
