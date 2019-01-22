@@ -6,6 +6,7 @@ This is a lab kit that will be used throughout Dr. Hur's ESET 369 course in Texa
 
 <center><img src="./pic.jpg" width =50%></center>
 *(Note) This kit does not include TI Launchpad boards as is in the picture. A TI Launchpad was shown just for reference to show how it can be mounted.*
+<br />
 
 This kit includes:
 
