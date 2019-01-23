@@ -25,7 +25,7 @@ This kit includes:
 This is __NOT a required__ kit purchase who takes the course. Students can access this kit during the lab hours. <br />
 As a service to the students who take the course and for their learning purpose, the kit is available for purchase. <br />
 
-*Texas A&M Marketplace item link: https://secure.touchnet.com/C21490_ustores/web/classic/product_detail.jsp?PRODUCTID=11169*<br />
+*Texas A&M Marketplace item link: <br /> https://secure.touchnet.com/C21490_ustores/web/classic/product_detail.jsp?PRODUCTID=11169*<br />
 
 This kit was not designed for public but just for a few students who takes Dr. Hur’s ESET 369 course. It is not expected nor possible to handle a large quantity of the order. Please, understand the minimum lead time of __two weeks__. <br />
 Throughout the ESET 369 course, the detail of this kit will be covered in depth. <br />
