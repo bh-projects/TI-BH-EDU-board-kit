@@ -2,7 +2,7 @@
 
 DOI: 10.5281/zenodo.2538993
 
-This is a lab kit that will be used throughout Dr. Hur's ESET 369 course in Texas A&M University in *Spring of 2019*. It includes several input and output components which are covered in the ESET 369 course <br />
+This is a lab kit that will be used throughout Dr. Hur's ESET 369 course in Texas A&M University in *Fall of 2019*. It includes several input and output components which are covered in the ESET 369 course <br />
 
 <center><img src="./pic.jpg" width =50%></center>
 *(Note) This kit does not include TI Launchpad boards as is in the picture. A TI Launchpad was shown just for reference to show how it can be mounted.*
