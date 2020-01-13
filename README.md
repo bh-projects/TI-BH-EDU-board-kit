@@ -5,7 +5,7 @@ DOI: 10.5281/zenodo.2538993
 This is a lab kit that will be used throughout Dr. Hur's ESET 369 course in Texas A&M University. It includes several input and output components which are covered in an embedded system course <br />
 
 <center><img src="./BH_EDU_board.jpg" width =50%></center>
-*(Note) This kit does not include TI Launchpad boards as is in the picture. A TI Launchpad was shown just for reference to show how it can be mounted.*
+(Note) This kit does not include TI Launchpad boards as is in the picture. A TI Launchpad was shown just for reference to show how it can be mounted.
 <br />
 <br />
 This kit includes:
@@ -19,8 +19,6 @@ This kit includes:
 - Accelerometer board<br />
 
 - DC/Stepper Motor Driver Board <br />
-
-- Plastic container<br />
 
 This is __NOT a required__ kit purchase who takes the course. Students can access this kit during the lab hours. <br />
 As a service to the students who take the course and for their learning purpose, the kit is available for purchase. <br />
