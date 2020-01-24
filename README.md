@@ -27,8 +27,5 @@ This kit is available for purchase for those you who wants to own it. <br />
 
 It is not expected nor possible to handle a large quantity of the order. <br />
 Please, understand the minimum lead time of __two weeks__. <br />
-Throughout the ESET 369 course, the detail of this kit will be covered in depth. <br />
-
 <br />
-
 (Disclaimer) This kit includes an non-functional and experimental board. Throughout the course, students will learn how to use them to make them function properly. Dr. Byul Hur nor Texas A&M will not be responsible for *any of the issues regarding the items such as damaged products or any types of injuries or accidents*.
