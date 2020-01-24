@@ -21,7 +21,7 @@ This kit includes:
 - DC/Stepper Motor Driver Board <br />
 
 Students can access this kit during the lab hours. <br />
-The kit purchase is not needed. However, this kit is available for purchase for those you who wants to own it. <br />
+However, this kit is available for purchase for those you who wants to own it. <br />
 
 *Texas A&M Marketplace item link: <br /> https://secure.touchnet.com/C21490_ustores/web/classic/product_detail.jsp?PRODUCTID=11169*<br />
 
