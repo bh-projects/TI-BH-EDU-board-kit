@@ -25,7 +25,8 @@ This kit is available for purchase for those you who wants to own it. <br />
 
 *Texas A&M Marketplace item link: <br /> https://secure.touchnet.com/C21490_ustores/web/classic/product_detail.jsp?PRODUCTID=11169*<br />
 
-It is not expected nor possible to handle a large quantity of the order. Please, understand the minimum lead time of __two weeks__. <br />
+It is not expected nor possible to handle a large quantity of the order. <br />
+Please, understand the minimum lead time of __two weeks__. <br />
 Throughout the ESET 369 course, the detail of this kit will be covered in depth. <br />
 
 <br />
