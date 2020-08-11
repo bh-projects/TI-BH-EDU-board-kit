@@ -1,4 +1,4 @@
-# TI-BH-EDU-board-kit V2.1.0 reference
+# TI-BH-EDU-board-kit V2.1.x reference
 
 DOI: 10.5281/zenodo.2538993
 
@@ -10,15 +10,11 @@ This is a lab kit that will be used throughout Dr. Hur's ESET 369 course at Texa
 <br />
 This kit includes:
 
-- TI BH EDU board V1.7 (assembled)<br />
-
-- 16 key keypad<br />
-
+- TI BH EDU board V2.1.x (assembled)<br />
 - 16 x 2 LCD module<br />
-
-- Accelerometer board<br />
-
-- DC/Stepper Motor Driver Board <br />
+- DC Motor <br />
+- Servo motor <br />
+- Ultrasonic sensor <br />
 
 Students can access this kit during the lab hours. <br />
 This kit is available for purchase for those you who wants to own it. <br />
