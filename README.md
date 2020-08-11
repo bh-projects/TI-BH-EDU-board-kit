@@ -1,4 +1,4 @@
-# TI-BH-EDU-board-kit V1.7 reference
+# TI-BH-EDU-board-kit V2.1.0 reference
 
 DOI: 10.5281/zenodo.2538993
 
