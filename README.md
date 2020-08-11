@@ -4,7 +4,7 @@ DOI: 10.5281/zenodo.2538993
 
 This is a lab kit that will be used throughout Dr. Hur's ESET 369 course at Texas A&M University. It includes several input and output components which have been covered in the ESET369 embedded system course<br />
 
-<center><img src="./BH_EDU_board.jpg" width =50%></center>
+<center><img src="./BH_EDU_board_MSP432.jpg" width =50%></center>
 (Note) A TI Launchpad board is not included in the kit.
 <br />
 <br />
