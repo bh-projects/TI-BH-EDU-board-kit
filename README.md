@@ -18,11 +18,5 @@ This kit includes:
 - Battery holder <br />
 
 Students can access this kit during the lab hours. <br />
-This kit is available for purchase for those you who wants to own it. <br />
-
-*Texas A&M Marketplace item link: <br /> https://secure.touchnet.com/C21490_ustores/web/classic/product_detail.jsp?PRODUCTID=11169*<br />
-
-It is not expected nor possible to handle a large quantity of the order. <br />
-Please, understand the minimum lead time of __two weeks__. <br />
 <br />
 (Disclaimer) This kit includes an experimental board and non-functional as is. Throughout the course, students will learn how to use them to make them function properly. Dr. Byul Hur nor Texas A&M will not be responsible for *any of the issues regarding the items such as damaged products or any types of injuries or accidents*.
