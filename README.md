@@ -1,6 +1,6 @@
 # TI-BH-EDU-board-kit V2.1.x reference
 
-DOI: 10.5281/zenodo.8384093
+DOI: 10.5281/zenodo.2538993
 
 This is a lab kit that will be used throughout Dr. Hur's ESET 369 course at Texas A&M University. It includes several input and output components which have been covered in the ESET369 embedded system course<br />
 
